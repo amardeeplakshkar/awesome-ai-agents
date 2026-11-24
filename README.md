@@ -1,6 +1,6 @@
-# 🤖 Awesome AI Agents
+# 🤖 Awesome AI Agents - AI Coding Agents
 
-> A curated list of AI agents that plan, build, research and automate work for you - coding agents, general-purpose agents, automation agents and frameworks to build your own.
+> A curated list of AI coding agents that plan, build, test and ship code for you - Muse Code, Claude Code, Codex, Cursor and more, plus general-purpose and automation agents that code.
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -13,7 +13,7 @@
 
 ## Why This List
 
-Most AI agent lists give you a name and a link. This one groups the agents that actually do the work - coding agents, general-purpose agents, automation agents and frameworks to build your own - so you can find the right one in seconds, without hunting across different sites.
+This list focuses on AI coding agents, not a generic list of all AI agents. This one groups the agents that actually do the work - coding agents, general-purpose agents, automation agents and frameworks to build your own - so you can find the right one in seconds, without hunting across different sites.
 
 ---
 
