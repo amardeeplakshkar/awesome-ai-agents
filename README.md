@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/Entries-20-blue.svg)](#contents)
+[![Entries](https://img.shields.io/badge/Entries-23-blue.svg)](#contents)
 
 **Keywords:** `ai agents` · `autonomous ai agents` · `ai coding agents` · `coding agents` · `general purpose ai agents` · `ai automation` · `agent frameworks`
 
@@ -19,9 +19,9 @@ This list focuses on AI coding agents, not a generic list of all AI agents. This
 
 ## Contents
 
-- [Coding Agents](#coding-agents) - 12 agents for writing, reviewing and shipping code
-- [General-Purpose Agents](#general-purpose-agents) - 4 agents for research, planning and everyday tasks
-- [Automation Agents](#automation-agents) - 2 agents that work on their own and hand back finished work
+- [Coding Agents](#coding-agents) - 13 agents for writing, reviewing and shipping code
+- [General-Purpose Agents](#general-purpose-agents) - 5 agents for research, planning and everyday tasks
+- [Automation Agents](#automation-agents) - 3 agents that work on their own and hand back finished work
 - [Build-Your-Own Frameworks](#build-your-own-frameworks) - 2 open-source frameworks to build your own agent
 
 ---
@@ -43,6 +43,7 @@ This list focuses on AI coding agents, not a generic list of all AI agents. This
 | [Kilo Code](https://kilo.ai) | Open-source coding agent for VS Code, JetBrains and CLI with orchestrator mode and cloud agents |
 | [Google Antigravity](https://antigravity.google) | Google's agent-first dev platform that orchestrates parallel subagents across app, CLI, IDE and SDK |
 
+| [Omi CLI](https://cli.builditomi.com) | Terminal coding agent with parallel subagents and a free plan |
 ---
 
 ## General-Purpose Agents
@@ -53,6 +54,7 @@ This list focuses on AI coding agents, not a generic list of all AI agents. This
 | [OpenAI Dots](https://openai.com/index/introducing-dots/) | OpenAI's always-on agents with their own cloud computer and browser that keep working toward goals 24/7 |
 | [Manus](https://manus.im) | General-purpose agent that plans and executes multi-step tasks and delivers finished files like decks, sites and spreadsheets |
 | [ChatGPT Agent](https://openai.com/index/introducing-chatgpt-agent/) | ChatGPT's agentic mode that browses, runs code and completes complex tasks on its own virtual computer |
+| [Rakazo](https://rakazo.com) | Open-source team of persistent AI bots you self-host for free |
 
 ---
 
@@ -62,6 +64,7 @@ This list focuses on AI coding agents, not a generic list of all AI agents. This
 | --- | --- |
 | [Devin](https://devin.ai) | Cognition's autonomous software engineer that plans, writes, tests and ships code as pull requests |
 | [Google Jules](https://jules.google.com) | Google's asynchronous coding agent that clones a repo into a cloud VM and returns changes as PRs |
+| [Polylane](https://polylane.com) | AI SRE agent that finds production issues and opens fix PRs |
 
 ---
 
