@@ -42,7 +42,6 @@ This list focuses on AI coding agents, not a generic list of all AI agents. This
 | [Amp](https://ampcode.com) | Coding agent and dev environment that runs each thread in its own cloud machine |
 | [Kilo Code](https://kilo.ai) | Open-source coding agent for VS Code, JetBrains and CLI with orchestrator mode and cloud agents |
 | [Google Antigravity](https://antigravity.google) | Google's agent-first dev platform that orchestrates parallel subagents across app, CLI, IDE and SDK |
-
 | [Omi CLI](https://cli.builditomi.com) | Terminal coding agent with parallel subagents and a free plan |
 ---
 
