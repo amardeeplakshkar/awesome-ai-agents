@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/Entries-23-blue.svg)](#contents)
+[![Entries](https://img.shields.io/badge/Entries-25-blue.svg)](#contents)
 
 **Keywords:** `ai agents` · `autonomous ai agents` · `ai coding agents` · `coding agents` · `general purpose ai agents` · `ai automation` · `agent frameworks`
 
@@ -19,9 +19,9 @@ This list focuses on AI coding agents, not a generic list of all AI agents. This
 
 ## Contents
 
-- [Coding Agents](#coding-agents) - 13 agents for writing, reviewing and shipping code
+- [Coding Agents](#coding-agents) - 14 agents for writing, reviewing and shipping code
 - [General-Purpose Agents](#general-purpose-agents) - 5 agents for research, planning and everyday tasks
-- [Automation Agents](#automation-agents) - 3 agents that work on their own and hand back finished work
+- [Automation Agents](#automation-agents) - 4 agents that work on their own and hand back finished work
 - [Build-Your-Own Frameworks](#build-your-own-frameworks) - 2 open-source frameworks to build your own agent
 
 ---
@@ -43,6 +43,7 @@ This list focuses on AI coding agents, not a generic list of all AI agents. This
 | [Kilo Code](https://kilo.ai) | Open-source coding agent for VS Code, JetBrains and CLI with orchestrator mode and cloud agents |
 | [Google Antigravity](https://antigravity.google) | Google's agent-first dev platform that orchestrates parallel subagents across app, CLI, IDE and SDK |
 | [Omi CLI](https://cli.builditomi.com) | Terminal coding agent with parallel subagents and a free plan |
+| [Pax](https://pydantic.dev/docs/ai/pax/) | Terminal coding agent from Pydantic AI that runs any model or your own agent, free to install, bring your own model |
 ---
 
 ## General-Purpose Agents
@@ -64,6 +65,7 @@ This list focuses on AI coding agents, not a generic list of all AI agents. This
 | [Devin](https://devin.ai) | Cognition's autonomous software engineer that plans, writes, tests and ships code as pull requests |
 | [Google Jules](https://jules.google.com) | Google's asynchronous coding agent that clones a repo into a cloud VM and returns changes as PRs |
 | [Polylane](https://polylane.com) | AI SRE agent that finds production issues and opens fix PRs |
+| [Lodol](https://www.lodol.com:443/pricing) | Workflow automation you describe in chat, with AI agent steps across many apps, free plan with 100 runs a month and no payment details |
 
 ---
 
