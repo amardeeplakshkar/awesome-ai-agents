@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/Entries-26-blue.svg)](#contents)
+[![Entries](https://img.shields.io/badge/Entries-27-blue.svg)](#contents)
 
 **Keywords:** `ai agents` · `autonomous ai agents` · `ai coding agents` · `coding agents` · `general purpose ai agents` · `ai automation` · `agent frameworks`
 
@@ -19,7 +19,7 @@ This list focuses on AI coding agents, not a generic list of all AI agents. This
 
 ## Contents
 
-- [Coding Agents](#coding-agents) - 15 agents for writing, reviewing and shipping code
+- [Coding Agents](#coding-agents) - 16 agents for writing, reviewing and shipping code
 - [General-Purpose Agents](#general-purpose-agents) - 5 agents for research, planning and everyday tasks
 - [Automation Agents](#automation-agents) - 4 agents that work on their own and hand back finished work
 - [Build-Your-Own Frameworks](#build-your-own-frameworks) - 2 open-source frameworks to build your own agent
@@ -45,6 +45,7 @@ This list focuses on AI coding agents, not a generic list of all AI agents. This
 | [Omi CLI](https://cli.builditomi.com) | Terminal coding agent with parallel subagents and a free plan |
 | [Pax](https://pydantic.dev/docs/ai/pax/) | Terminal coding agent from Pydantic AI that runs any model or your own agent, free to install, bring your own model |
 | [Contral](https://contral.ai/pricing) | AI coding IDE that checks its own work and teaches the code, free plan with no card |
+|[NOVA](https://runnova.ai/)| AI coding agent for your terminal and the web that builds, fixes and ships code from plain-language prompts - free plan with daily credits |
 ---
 
 ## General-Purpose Agents
